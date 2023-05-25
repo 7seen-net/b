@@ -12,8 +12,8 @@
 
 <channel>
 	<title>الربح من الانترنت &#8211; 7سين</title>
-	<atom:link href="https://7seen.net/category/%D8%A7%D9%84%D8%B1%D8%A8%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/feed/" rel="self" type="application/rss+xml" />
-	<link>https://7seen.net</link>
+	<atom:link href="https://7seen-net.github.io/b/category/%D8%A7%D9%84%D8%B1%D8%A8%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen-net.github.io/b</link>
 	<description>مدونة 7 سين</description>
 	<lastBuildDate>Wed, 15 Jul 2020 04:38:27 +0000</lastBuildDate>
 	<language>ar</language>
@@ -24,9 +24,9 @@
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>https://7seen.net/wp-content/uploads/2020/03/cropped-logo-1-32x32.png</url>
+	<url>https://7seen-net.github.io/b/wp-content/uploads/2020/03/cropped-logo-1-32x32.png</url>
 	<title>الربح من الانترنت &#8211; 7سين</title>
-	<link>https://7seen.net</link>
+	<link>https://7seen-net.github.io/b</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
